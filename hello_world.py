@@ -7,4 +7,4 @@ Created on Thu Mar 23 12:07:46 2023
 """
 
 if __name__ == '__main__':
-    print("Hello world!")
+    print("Hello World!")
